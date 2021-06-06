@@ -21,7 +21,7 @@ k = '\x1b[0;33m'
 url="https://mbasic.facebook.com"
 longentod="lo lebih ngentod"
 ip = requests.get('https://api.ipify.org').text
-logo=("\n"+K+"__________ ________      _____ _____________________\n\______   \\\_____  \    /     \\\______   \_   _____/ \n |       _/ /   |   \  /  \ /  \|    |  _/|    __)  \n |    |   \/    |    \/    Y    \    |   \|     \   \n |____|_  /\_______  /\____|__  /______  /\___  /   \n        \/         \/         \/       \/     \/    \n "+P+"[#]------------------------------------------------ \n [*] Coded by  : Romi Afrizal & Azmi tamvan \n "+P+"[*] Github me : https://github.com/kangcrack \n [*] Facebook  : facebook.com/Bang.badru23  \n \x1b[1;97m[#]------------------------------------------------ \n [*] Premium?  :"+M+" Tidak "+P+"\n [*] Alamat ip :"+H+" "+ip+" ")
+logo=("\n"+K+"__________ ________      _____ _____________________\n\______   \\\_____  \    /     \\\______   \_   _____/ \n |       _/ /   |   \  /  \ /  \|    |  _/|    __)  \n |    |   \/    |    \/    Y    \    |   \|     \   \n |____|_  /\_______  /\____|__  /______  /\___  /   \n        \/         \/         \/       \/     \/    \n "+P+"[#]------------------------------------------------ \n [*] Coded by  : Muhamad Badru Wasih \n "+P+"[*] Github me : https://github.com/kangcrack \n [*] Facebook  : facebook.com/Bang.badru23  \n \x1b[1;97m[#]------------------------------------------------ \n [*] Premium?  :"+M+" Tidak "+P+"\n [*] Alamat ip :"+H+" "+ip+" ")
 
 
 def tik():
